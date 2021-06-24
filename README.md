@@ -1,2 +1,2 @@
 
-#..jogo-game
+#jogo-game
